@@ -5,6 +5,7 @@
 
 trigger:
 - main
+- Alexander
 
 pool:
   vmImage: 'windows-latest'
